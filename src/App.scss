@@ -1,0 +1,14 @@
+.body {
+  background-color: #212123;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 74.2vw;
+  height: 100vh;
+
+  > .hero {
+    padding: 2rem 3rem;
+    display: flex;
+    justify-content: space-between;
+  }
+}
